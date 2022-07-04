@@ -54,6 +54,10 @@ h2 {
     background-position: left;
 }
 
+.padd {
+    padding-left: 20px;
+}
+
 .shadow {
     box-shadow: 10px 10px 40px gray;
     margin-left: 40px;
